@@ -2,3 +2,4 @@ This is srikrishna first file on git
 This is srikrishna 2nd line
 This is srikrishna 3rd line
 This is srikrishna 4th line
+This is master 4th line
